@@ -1,8 +1,10 @@
+![MasterHead](https://github.com/007aryansaini/007aryansaini/blob/main/blockchain.jpg)
+
 - 🔭 I’m currently working on **launchpad and DEX**
 
 - 🌱 I’m currently learning **react.js and next.js**
 
-- 👯 I’m looking to collaborate on **WEB-3/BLOCKCHAIN DEVELOPER Projects !**
+- 👯 I’m looking to collaborate on **WEB-3/BLOCKCHAIN Projects !**
 
 - 💬 Ask me about **Web-3 , Blockchain Development , NFT MarketPlace , ERC20 tokens, launchpad , DEX , Wallet , etc**
 
