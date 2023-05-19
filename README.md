@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ashuxshimra/ashuxshimra/blob/main/banner.png)
+![MasterHead]
 - 🔭 I’m currently working on **launchpad and DEX**
 
 - 🌱 I’m currently learning **react.js and next.js**
