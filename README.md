@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://hardhat.org/" target="_blank" org="noreferrer"> <img src="https://i.ibb.co/JRDjmkV/hardhat-logo-888739-EBB4-seeklogo-com.png" alt="hardhat" width="40" height="40"/> </a>
-<a href="https://soliditylang.org/" target="_blank" org="noreferrer"> <img src="https://i.ibb.co/Mnbb8Qk/solidity.png" alt="solidity" width="40" height="40"/> </a>
+<a href="https://soliditylang.org/" target="_blank" org="noreferrer"> <img src="https://i.postimg.cc/TwVpDzWT/solid.png" alt="solidity" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://docs.ethers.org/v5/" target="_blank" org="noreferrer"> <img src="https://i.postimg.cc/qBGTCJgN/etherjs.png" alt="ether.js" width="40" height="40"/> </a>
  <a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" org="noreferrer"> <img src="https://i.postimg.cc/ZYXMRXxW/web3.png" alt="ether.js" width="40" height="40"/> </a>
