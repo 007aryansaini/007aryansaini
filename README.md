@@ -8,7 +8,7 @@
 
 - 🔭 **Current Focus**: High-frequency trading systems, arbitrage engines, and multi-chain DeFi protocols
 - 🏆 **Achievement**: **ETHGlobal 2024 Lit Protocol Bounty - First Place Winner** for [Cipherpool](https://ethglobal.com/showcase/cipherpool-tnmv4)
-- 💼 **Experience**: 2+ years in Full Stack Blockchain Development with expertise in DeFi, DEX, and Smart Contract Development
+- 💼 **Experience**: 3+ years in Full Stack Blockchain Development with expertise in DeFi, DEX, and Smart Contract Development
 - 🌱 **Learning**: Advanced trading algorithms, multi-chain protocols, and scalable blockchain infrastructure
 - 👯 **Collaboration**: Open to collaborating on **DeFi protocols, Trading systems, and Innovative Blockchain solutions**
 - 💬 **Expertise**: Smart Contracts, DeFi, DEX Development, Arbitrage Systems, Account Abstraction, and Full Stack Development
